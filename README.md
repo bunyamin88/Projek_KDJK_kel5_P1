@@ -80,7 +80,8 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
-
+1. Tampilan utama Web
+   ![Halaman utama](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/Screenshot%202024-10-10%20140835.png)
 
 ## Pembahasan
 
