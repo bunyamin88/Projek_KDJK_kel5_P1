@@ -1,15 +1,12 @@
 # Projek_KDJK_kel5_P1
 
 # Aplikasi Web "Atomic Server"
-Atomic Data merupakan spesifikasi modular yang dirancang untuk berbagi informasi di web. Sebagai spesifikasi modular, pengguna dapat memilih bagian yang ingin digunakan dan mengabaikan bagian lainnya. Namun, Atomic Data Core merupakan bagian yang wajib digunakan, karena semua bagian lain bergantung pada inti ini.
-
-Atomic Data Core memungkinkan penyampaian berbagai jenis informasi, termasuk data pribadi, kosakata, metadata, dokumen, file, dan sebagainya. Sistem ini dirancang agar mudah diserialisasikan ke dalam format JSON maupun format data terhubung (linked data). Sebagai model data yang bertipe, setiap nilai dalam Atomic Data harus divalidasi berdasarkan tipe datanya, untuk memastikan kesesuaian dan keakuratan data yang digunakan.
-
-
 
 ## Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
+Atomic Data merupakan spesifikasi modular yang dirancang untuk berbagi informasi di web. Sebagai spesifikasi modular, pengguna dapat memilih bagian yang ingin digunakan dan mengabaikan bagian lainnya. Namun, Atomic Data Core merupakan bagian yang wajib digunakan, karena semua bagian lain bergantung pada inti ini.
+
+Atomic Data Core memungkinkan penyampaian berbagai jenis informasi, termasuk data pribadi, kosakata, metadata, dokumen, file, dan sebagainya. Sistem ini dirancang agar mudah diserialisasikan ke dalam format JSON maupun format data terhubung (linked data). Sebagai model data yang bertipe, setiap nilai dalam Atomic Data harus divalidasi berdasarkan tipe datanya, untuk memastikan kesesuaian dan keakuratan data yang digunakan.
 
 
 ## Instalasi
