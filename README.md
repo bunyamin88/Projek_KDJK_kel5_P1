@@ -84,8 +84,6 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
    ![Halaman utama](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/Screenshot%202024-10-10%20140835.png)
 
 ## Pembahasan
-
-- Pendapat anda tentang aplikasi web ini
 ## Kelebihan Atomic Data
 
 1. **Skema Fleksibel**: Atomic Data sangat cocok untuk data yang bervariasi, seperti wiki terstruktur atau data semantik, karena memungkinkan setiap objek memiliki atribut yang berbeda. Setiap sumber daya dapat memiliki properti yang berbeda sesuai kebutuhan.
