@@ -11,13 +11,13 @@ Atomic Data Core memungkinkan penyampaian berbagai jenis informasi, termasuk dat
 
 ## Instalasi
 
-instal docker beserta dpcker compose
+Instal docker beserta docker-compose
 ```
 apt-get update
-docker-compose
-docker
+apt-get install docker-compose
+apt-get install docker
 ```
-buat file docker-compose.yml
+Buat file docker-compose.yml
 ```
 nano docker-compose.yml
 ```
@@ -40,12 +40,12 @@ volumes:
   atomic-storage:
 ```
 
-jalankan docker compose pada directory yang sama dengan file
+Jalankan docker compose pada directory yang sama dengan file
 
 ```
 docker-compose up -d
 ```
-kemudian kunjungi domain/IP web 
+Kemudian kunjungi domain/IP web 
 	
 
 
