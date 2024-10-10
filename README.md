@@ -11,8 +11,42 @@ Atomic Data Core memungkinkan penyampaian berbagai jenis informasi, termasuk dat
 
 ## Instalasi
 
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Langkah instalasi dalam CLI.
+instal docker beserta dpcker compose
+```
+apt-get update
+docker-compose
+docker
+```
+buat file docker-compose.yml
+```
+nano docker-compose.yml
+```
+```
+version: '3.8'
+
+services:
+  alpha:
+    image: joepmeneer/atomic-server
+    container_name: alpha
+    hostname: alpha
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - atomic-storage:/atomic-storage
+    restart: unless-stopped
+
+volumes:
+  atomic-storage:
+```
+
+jalankan docker compose pada directory yang sama dengan file
+
+```
+docker-compose up -d
+```
+kemudian kunjungi domain/IP web 
+	
 
 
 ## Konfigurasi (opsional)
