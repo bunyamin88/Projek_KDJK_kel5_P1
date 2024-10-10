@@ -84,7 +84,15 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
    ![Halaman utama](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20140835.png)
 2. Login sebagai user agent di user settings
    ![Halaman user](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20142736.png)
-3. 
+3. Bagian Collections berisi berbagai macam data
+   ![Halaman Collection](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20191618.png)
+5. Membuat data baru
+   ![membuat data 1](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20192004.png)
+   ![membuat data 2](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20192102.png)
+7. Kustomisasi tampilan web
+   ![Halaman kustomisasi](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20191645.png)
+9. Daftar shortcut web
+    ![Shortcut](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20191656.png)
 
 ## Pembahasan
 ## Kelebihan Atomic Data
