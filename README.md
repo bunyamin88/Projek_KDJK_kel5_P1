@@ -104,6 +104,10 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 6. Daftar shortcut web
     ![Shortcut](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20191656.png)
    Pengguna juga diberikan kemudahan dalam mengakses berbagai bagian aplikasi dengan menggunakan shortcut. Fitur ini mempercepat navigasi, sehingga pengguna dapat langsung menuju halaman yang sering digunakan tanpa harus melalui beberapa langkah.
+   
+**Tips Penggunaaan**: 
+Untuk memaksimalkan penggunaan aplikasi web ini, pastikan untuk login terlebih dahulu agar dapat mengakses semua fitur, serta gunakan shortcut untuk navigasi yang lebih cepat. Di bagian *Collections*, kelola data dengan cermat dan selalu simpan perubahan setelah mengedit. Jika baru mencoba fitur baru, gunakan data dummy terlebih dahulu agar data real tetap aman. Manfaatkan fitur kustomisasi tampilan, seperti *dark mode* atau pengaturan font, untuk kenyamanan penggunaan, terutama jika digunakan dalam waktu lama. Terakhir, pantau log aktivitas secara berkala untuk memantau perubahan atau aktivitas yang terjadi di aplikasi.
+
 
 ## Pembahasan
 ## Kelebihan Atomic Data
@@ -117,9 +121,6 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 4. **Data Terhubung dan Terdesentralisasi**: Atomic Data memungkinkan penggunaan URL untuk menghubungkan data dari berbagai komputer tanpa membuat salinan. Ini sangat berguna untuk jaringan sosial terdesentralisasi atau data yang tersebar di berbagai lokasi.
 
 5. **Auditabilitas & Versi**: Dengan Atomic Commits, setiap perubahan data disimpan sebagai transaksi yang dapat diputar ulang. Ini memungkinkan adanya riwayat perubahan lengkap dan log audit yang terperinci.
-
-**Tips Penggunaaan**: 
-Untuk memaksimalkan penggunaan aplikasi web ini, pastikan untuk login terlebih dahulu agar dapat mengakses semua fitur, serta gunakan shortcut untuk navigasi yang lebih cepat. Di bagian *Collections*, kelola data dengan cermat dan selalu simpan perubahan setelah mengedit. Jika baru mencoba fitur baru, gunakan data dummy terlebih dahulu agar data real tetap aman. Manfaatkan fitur kustomisasi tampilan, seperti *dark mode* atau pengaturan font, untuk kenyamanan penggunaan, terutama jika digunakan dalam waktu lama. Terakhir, pantau log aktivitas secara berkala untuk memantau perubahan atau aktivitas yang terjadi di aplikasi.
 
 ## Kekurangan Atomic Data
 
