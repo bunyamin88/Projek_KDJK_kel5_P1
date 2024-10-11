@@ -82,17 +82,28 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 1. Tampilan utama Web
    ![Halaman utama](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20140835.png)
+   Tampilan utama aplikasi web memberikan pengguna akses langsung ke fitur-fitur utama aplikasi. Pada halaman ini, pengguna dapat melihat menu navigasi, dan dari sana pengguna bisa mengakses berbagai bagian aplikasi seperti koleksi data, pengaturan, dan lainnya.
+   
 2. Login sebagai user agent di user settings
    ![Halaman user](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20142736.png)
+   Untuk dapat menggunakan fitur secara penuh, pengguna perlu melakukan login. Di halaman user settings ini, pengguna akan melakukan autentikasi, biasanya dengan username dan password yang telah ditentukan.
+   
 3. Bagian Collections berisi berbagai macam data
    ![Halaman Collection](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20191618.png)
-5. Membuat data baru
+   Bagian Collections berisi berbagai data yang sudah dimasukkan oleh pengguna. Data ini bisa berupa daftar address, agents, atau entitas lain yang dikelola dalam sistem. Pada contoh ini, beberapa koleksi sudah diisi dengan data dummy 
+   
+4. Membuat data baru
    ![membuat data 1](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20192004.png)
    ![membuat data 2](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20192102.png)
-7. Kustomisasi tampilan web
+   Untuk menambah data baru, pengguna dapat mengakses bagian untuk membuat data. Pengguna akan diminta untuk mengisi beberapa informasi terkait entitas yang ingin ditambahkan.
+   
+5. Kustomisasi tampilan web
    ![Halaman kustomisasi](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20191645.png)
-9. Daftar shortcut web
+   Aplikasi ini memungkinkan pengguna untuk mengkustomisasi tampilan web sesuai dengan preferensi mereka. Pengguna dapat mengubah tema, tata letak, atau warna antarmuka aplikasi.
+   
+6. Daftar shortcut web
     ![Shortcut](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20191656.png)
+   Pengguna juga diberikan kemudahan dalam mengakses berbagai bagian aplikasi dengan menggunakan shortcut. Fitur ini mempercepat navigasi, sehingga pengguna dapat langsung menuju halaman yang sering digunakan tanpa harus melalui beberapa langkah.
 
 ## Pembahasan
 ## Kelebihan Atomic Data
@@ -106,6 +117,9 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 4. **Data Terhubung dan Terdesentralisasi**: Atomic Data memungkinkan penggunaan URL untuk menghubungkan data dari berbagai komputer tanpa membuat salinan. Ini sangat berguna untuk jaringan sosial terdesentralisasi atau data yang tersebar di berbagai lokasi.
 
 5. **Auditabilitas & Versi**: Dengan Atomic Commits, setiap perubahan data disimpan sebagai transaksi yang dapat diputar ulang. Ini memungkinkan adanya riwayat perubahan lengkap dan log audit yang terperinci.
+
+**Tips Penggunaaan**: 
+Untuk memaksimalkan penggunaan aplikasi web ini, pastikan untuk login terlebih dahulu agar dapat mengakses semua fitur, serta gunakan shortcut untuk navigasi yang lebih cepat. Di bagian *Collections*, kelola data dengan cermat dan selalu simpan perubahan setelah mengedit. Jika baru mencoba fitur baru, gunakan data dummy terlebih dahulu agar data real tetap aman. Manfaatkan fitur kustomisasi tampilan, seperti *dark mode* atau pengaturan font, untuk kenyamanan penggunaan, terutama jika digunakan dalam waktu lama. Terakhir, pantau log aktivitas secara berkala untuk memantau perubahan atau aktivitas yang terjadi di aplikasi.
 
 ## Kekurangan Atomic Data
 
