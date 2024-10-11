@@ -80,28 +80,28 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
-1. Tampilan utama Web
+1. Landing Page
    ![Halaman utama](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20140835.png)
-   Tampilan utama aplikasi web memberikan pengguna akses langsung ke fitur-fitur utama aplikasi. Pada halaman ini, pengguna dapat melihat menu navigasi, dan dari sana pengguna bisa mengakses berbagai bagian aplikasi seperti koleksi data, pengaturan, dan lainnya.
+   Tampilan utama aplikasi web memberikan pengguna akses langsung ke fitur-fitur utama aplikasi. Pada halaman ini, pengguna dapat melihat menu navigasi, dan dari sana pengguna bisa mengakses berbagai bagian aplikasi seperti koleksi data dan lainnya.
    
-2. Login sebagai user agent di user settings
+2. Login
    ![Halaman user](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20142736.png)
    Untuk dapat menggunakan fitur secara penuh, pengguna perlu melakukan login. Di halaman user settings ini, pengguna akan melakukan autentikasi, biasanya dengan username dan password yang telah ditentukan.
    
-3. Bagian Collections berisi berbagai macam data
+3. Collections
    ![Halaman Collection](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20191618.png)
    Bagian Collections berisi berbagai data yang sudah dimasukkan oleh pengguna. Data ini bisa berupa daftar address, agents, atau entitas lain yang dikelola dalam sistem. Pada contoh ini, beberapa koleksi sudah diisi dengan data dummy 
    
-4. Membuat data baru
+4. Create New Data
    ![membuat data 1](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20192004.png)
    ![membuat data 2](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20192102.png)
    Untuk menambah data baru, pengguna dapat mengakses bagian untuk membuat data. Pengguna akan diminta untuk mengisi beberapa informasi terkait entitas yang ingin ditambahkan.
    
-5. Kustomisasi tampilan web
+5. Customize
    ![Halaman kustomisasi](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20191645.png)
    Aplikasi ini memungkinkan pengguna untuk mengkustomisasi tampilan web sesuai dengan preferensi mereka. Pengguna dapat mengubah tema, tata letak, atau warna antarmuka aplikasi.
    
-6. Daftar shortcut web
+6. Shortcut
     ![Shortcut](https://github.com/bunyamin88/Projek_KDJK_kel5_P1/blob/main/SS%20Web/Screenshot%202024-10-10%20191656.png)
    Pengguna juga diberikan kemudahan dalam mengakses berbagai bagian aplikasi dengan menggunakan shortcut. Fitur ini mempercepat navigasi, sehingga pengguna dapat langsung menuju halaman yang sering digunakan tanpa harus melalui beberapa langkah.
    
