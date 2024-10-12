@@ -174,4 +174,4 @@ Atomic Data menawarkan fleksibilitas tinggi dalam pengelolaan data terstruktur d
 
 ## Referensi
 
-Cantumkan tiap sumber informasi yang anda pakai.
+(https://docs.atomicdata.dev/)
