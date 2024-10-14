@@ -17,18 +17,27 @@ apt-get update
 apt-get install docker-compose
 apt-get install docker
 ```
+dapatkan image terbaru dari aplikasi
+```
+docker pull joepmeneer/atomic-server:develop
+```
+
 Buat file docker-compose.yml
 ```
 nano docker-compose.yml
 ```
 ```
-version: '3.8'
+version: '3'
 
 services:
   alpha:
-    image: joepmeneer/atomic-server
+    env_file: ".env"
+    image: joepmeneer/atomic-server:develop
     container_name: alpha
     hostname: alpha
+    environment:
+      - ATOMIC_DOMAIN=k5p1.online
+      - ATOMIC_INITIALIZE=true
     ports:
       - "80:80"
       - "443:443"
